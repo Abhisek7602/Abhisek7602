@@ -1,16 +1,26 @@
 ## Hi there 👋
+# 💫 About Me:
+Data Analyst with a strong foundation Python and SQL, leveraging data preprocessing, Cleaning, Modeling , and<br>statistical analysis to deliver actionable insights, enhance decision-making, and support business intelligence,<br>reporting, and performance improvement across projects.<br><br>Skills<br>Operating System: Linux<br>Programming & Querying: SQL, PostgreSQL, SQLPlus, Python<br>Python Libraries: Pandas, NumPy, Matplotlib, Seaborn<br>Data Visualization Tools: MS Excel, Power BI<br>Tools & Version Control: VS Code, Google Colab, Jupyter Notebook, Git, GitHub<br>Analytical Abilities: Data Cleaning, Exploratory Data Analysis, Insight Generation, Descriptive Statistics<br>Soft Skills: Problem solving, Attention to detail, Data presentation, Communication, Collaborative work<br><br>Data Analyst Intern<br>Jspider<br>December 2024– Present<br>Tools Used: SQL, Power BI,Python– Conducted data wrangling and transformation on extensive sales datasets (10K+ entries) encompassing product,<br>regional, and temporal dimensions.– Performed Exploratory Data Analysis (EDA) using statistical methods, scatter plots, and correlation matrices to detect<br>patterns and trends.– Delivered data-driven insights to pinpoint peak sales periods and optimize underperforming product segments for<br>improved business outcomes.<br><br>Projects<br>Customer Churn Analysis | Numpy, Pandas, Matplolib, Seaborn, Google Colab<br>November 2025– December 2025– Employed Python, Pandas, Seaborn, and Matplotlib in Google Colab to manage data analysis.– Conducted Exploratory Data Analysis (EDA) of customer data (7,043 rows) by count plots and bar charts.– Determined major causes of churn, including Month-to-month contracts (1655 churn), Electronic check (1071 churn), and<br>Fiber optic internet service (1297 churn).– Revealed absence of value-added services like OnlineSecurity (1446 churn) and TechSupport (1446 churn) is risk<br>indicator, along with Paperless Billing and Senior Citizen flag.<br>Blinkit Data Analysis Dashboard | Power BI, Excel<br>November 2025– December 2025– Leveraged power BI in data manipulation and insight generation, and visualization.– Analyzed total sales distribution across various dimensions, including outlet size, location (tier), establishment year, item<br>type, and item fat content, using KPI, Culstered bar charts, Stacked bar charts, Donut chart, Funnel Map.– Identified Tier 3 outlets as the highest performing location and Medium-sized outlets as the most numerous by sales<br>volume , with 2018 being the best-performing establishment year.– Determined Fruits and Vegetables and Snack Foods as the top-selling item types, and noted that Low Fat items<br>dominate overall sales.<br><br>Certifications<br>• Introduction to Data Analytics– Simplearn—Skillup (2025): Executed end-to-end data analytics workflows<br>using Python and SQL, applying data preprocessing, modeling, and AI-driven optimization for actionable insights.<br>• Data Analysis with Python- IBM (2025): Developed advanced visual analytics using Matplotlib and Python to<br>build interactive, presentation-ready dashboards,uncovering data patterns and actionable insights<br><br>Education<br>B.Tech Biotechnology<br>Majhighariani Institute Of Technology and Science, Rayagada, Odisha<br>Graduated: 2024<br>CGPA: 7.61 / 10
 
-<!--
-**Abhisek7602/Abhisek7602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BWyZW26nV/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_i_am.abhi_07?igsh=MnIwZmxxZHFzeGt6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhisek-nayak-88054a362/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abhisek711) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhisek Nayak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nayakabhisek7602@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhisek7602&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abhisek7602&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek7602&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhisek7602&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abhisek7602&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Abhisek7602) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

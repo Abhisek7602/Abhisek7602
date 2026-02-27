@@ -20,6 +20,9 @@
   <a href="https://www.linkedin.com/in/abhisek-nayak-88054a362/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+   <a href="https://drive.google.com/file/d/1XJuGQebltNdCarn85kI9ckeQ58r_HxyK/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
 </div>
 
 ---
